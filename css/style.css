@@ -1,0 +1,16 @@
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	color: #666;
+	font-family: Arial, sans-serif;
+	line-height: 18px;
+	background: #9F737C;
+}
+
+#container{
+	width: 600px;
+	margin: 0px auto;
+	padding: 30px;
+	background: #fff;
+}
